@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDUEditor", "CDUEditor\CDUEditor.csproj", "{34CD21B9-9307-419D-908C-E3EBB0A7579A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34CD21B9-9307-419D-908C-E3EBB0A7579A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CD21B9-9307-419D-908C-E3EBB0A7579A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CD21B9-9307-419D-908C-E3EBB0A7579A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CD21B9-9307-419D-908C-E3EBB0A7579A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26AA9E7B-5D7F-474F-9CBA-43C385E3FD0E}
+	EndGlobalSection
+EndGlobal
